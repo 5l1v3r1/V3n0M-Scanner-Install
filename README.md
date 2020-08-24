@@ -2,9 +2,9 @@
 V3n0M-Scanner Install
 
 
-## apt updaate && apt upgrade
+### apt updaate && apt upgrade
 
-## apt install git
+#### apt install git
 
 ## apt-get install python3-pip
 
